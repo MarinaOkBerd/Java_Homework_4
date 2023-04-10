@@ -1,6 +1,4 @@
-import java.util.ArrayDeque;
 import java.util.Stack;
-import java.util.Deque;
 import java.util.Scanner;
 
 public class Task_5 {
